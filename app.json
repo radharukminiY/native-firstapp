@@ -1,0 +1,12 @@
+{
+  "name": "n-first",
+  "displayName": "n-first",
+  "expo": {
+    "name": "n-first",
+    "slug": "n-first",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
